@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1481866164499_1" label="nlptools" name="nlptools"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1481861350768_0" label="Window Working Set" name="Aggregate for window 1481861350768"/>
+<mruList name="nlptools"/>
 </workingSetManager>
